@@ -1,15 +1,7 @@
 # anicli
 
-To install dependencies:
+Messy, buggy and overall awful implementation of anime library as CLI-app
 
-```bash
-bun install
-```
+## Credits
 
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.27. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+- [AniLibria] for their beautiful ***free*** API for people, that is used inside of `anicli`
